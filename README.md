@@ -1,15 +1,15 @@
 English | [简体中文](https://github.com/zchengsite/hexo-theme-oranges/blob/master/README-zh.md)
 
-# hexo-theme-oranges
+# hexo-theme-rzz
 
 > A simple hexo theme
 
-[demo](https://hexo.theme.oranges.zcheng.site/)
+[demo](https://rzhzhou.cn/)
 
 ## Installation
 
 ```bash
-$ git clone https://github.com/zchengsite/hexo-theme-oranges.git themes/oranges
+$ git clone https://github.com/rzhzhou/hexo-themes-rzz.git themes/rzz
 ```
 
 ## Usage
@@ -17,7 +17,7 @@ $ git clone https://github.com/zchengsite/hexo-theme-oranges.git themes/oranges
 Edit the `theme` field in the `_config.yml` file under the project root:
 
 ```yml
-theme: oranges
+theme: rzz
 ```
 
 ## configuration
